@@ -1,0 +1,8 @@
+#database parameters
+username: postgres
+password: password
+host: localhost
+database: person
+
+#new image size
+size: 300, 300
